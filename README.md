@@ -1,2 +1,2 @@
-# Treinamento BackFront Swift Descomplicado
+# Curso da BackFront - Swift Descomplicado
 
